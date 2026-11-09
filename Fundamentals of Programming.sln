@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "labwork1", "labwork1\labwork1.vcxproj", "{52D8DBF8-BD51-4587-94FB-75CC83962364}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "labwork2", "labwork2\labwork2.vcxproj", "{BE484F58-286B-4D44-BCD1-952EA544598A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Debug|x64 = Debug|x64
+		Release|Win32 = Release|Win32
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52D8DBF8-BD51-4587-94FB-75CC83962364}.Debug|Win32.ActiveCfg = Debug|Win32
+		{52D8DBF8-BD51-4587-94FB-75CC83962364}.Debug|Win32.Build.0 = Debug|Win32
+		{52D8DBF8-BD51-4587-94FB-75CC83962364}.Debug|x64.ActiveCfg = Debug|x64
+		{52D8DBF8-BD51-4587-94FB-75CC83962364}.Debug|x64.Build.0 = Debug|x64
+		{52D8DBF8-BD51-4587-94FB-75CC83962364}.Release|Win32.ActiveCfg = Release|Win32
+		{52D8DBF8-BD51-4587-94FB-75CC83962364}.Release|Win32.Build.0 = Release|Win32
+		{52D8DBF8-BD51-4587-94FB-75CC83962364}.Release|x64.ActiveCfg = Release|x64
+		{52D8DBF8-BD51-4587-94FB-75CC83962364}.Release|x64.Build.0 = Release|x64
+		{BE484F58-286B-4D44-BCD1-952EA544598A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{BE484F58-286B-4D44-BCD1-952EA544598A}.Debug|Win32.Build.0 = Debug|Win32
+		{BE484F58-286B-4D44-BCD1-952EA544598A}.Debug|x64.ActiveCfg = Debug|x64
+		{BE484F58-286B-4D44-BCD1-952EA544598A}.Debug|x64.Build.0 = Debug|x64
+		{BE484F58-286B-4D44-BCD1-952EA544598A}.Release|Win32.ActiveCfg = Release|Win32
+		{BE484F58-286B-4D44-BCD1-952EA544598A}.Release|Win32.Build.0 = Release|Win32
+		{BE484F58-286B-4D44-BCD1-952EA544598A}.Release|x64.ActiveCfg = Release|x64
+		{BE484F58-286B-4D44-BCD1-952EA544598A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+EndGlobal
